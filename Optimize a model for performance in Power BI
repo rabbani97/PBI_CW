@@ -1,0 +1,62 @@
+Performance optimization:-
+
+i. Performance optimization, also known as performance tuning.
+ii. It involves making changes to the current state of the semantic model so that it runs more efficiently.
+ iii. Essentially, when your semantic model is optimized, it performs better.
+
+You might find that your report runs well in test and development environments, but when deployed to production for broader consumption, performance issues arise. From a report user's perspective, poor performance is characterized by report pages that take longer to load and visuals taking more time to update. This poor performance results in a negative user experience.
+
+
+Note:-
+>> As a data analyst, you will spend approximately 90 percent of your time working with your data, and nine times out of ten, poor performance is a direct result of a bad semantic model, bad Data Analysis Expressions (DAX), or the mix of the two. 
+
+>> The process of designing a semantic model for performance can be tedious, and it is often underestimated. However, if you address performance issues during development, you will have a robust Power BI semantic model that will return better reporting performance and a more positive user experience. 
+
+ >> Ultimately, you will also be able to maintain optimized performance.
+
+>> As your organization grows, the size of its data grows, and its semantic model becomes more complex.
+
+>>  By optimizing your semantic model early, you can mitigate the negative impact that this growth might have on the performance of your semantic model.
+
+>> A smaller sized semantic model uses less resources (memory) and achieves faster data refresh, calculations, and rendering of visuals in reports. 
+
+Therefore, the performance optimization process involves minimizing the size of the semantic model and making the most efficient use of the data in the model, which includes:
+
+1. Ensuring that the correct data types are used.
+
+2. Deleting unnecessary columns and rows.
+
+3. Avoiding repeated values.
+
+4. Replacing numeric columns with measures.
+
+5. Reducing cardinalities.
+
+6. Analyzing model metadata.
+
+7. Summarizing data where possible.
+
+
+To identify the root cause of the perfomance issues and make changes to optimize performance.
+
+1. Review the performance measures , relationships and visuals.
+
+2.  Usage of variables to improve performance and trobuleshooting.
+
+3. Improve performance by reducing cardinality levels.
+
+4. Optimize DirectQuery models with the table level storage
+
+5. Crated and Manage aggregations.
+
+
+
+
+
+
+
+
+
+
+
+
